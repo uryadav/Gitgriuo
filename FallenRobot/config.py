@@ -11,7 +11,7 @@ class Config(object):
 
     EVENT_LOGS = ()  # Event logs channel to note down important bot level events
 
-    MONGO_DB_URI = ""  # Get ths value from cloud.mongodb.com
+    MONGO_DB_URI = "mongodb+srv://rkissu123456:kissu@cluster0.vzhox3z.mongodb.net/?retryWrites=true&w=majority"  # Get ths value from cloud.mongodb.com
 
     # Telegraph link of the image which will be shown at start command.
     START_IMG = "https://te.legra.ph/file/40eb1ed850cdea274693e.jpg"
@@ -20,7 +20,7 @@ class Config(object):
 
     TOKEN = ""  # Get bot token from @BotFather on Telegram
 
-    TIME_API_KEY = ""  # Get this value from https://timezonedb.com/api
+    TIME_API_KEY = "http://api.timezonedb.com/v2.1/get-time-zone"  # Get this value from https://timezonedb.com/api
 
     OWNER_ID = 6331669617  # User id of your telegram account (Must be integer)
 
