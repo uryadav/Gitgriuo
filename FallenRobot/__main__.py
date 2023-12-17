@@ -434,10 +434,11 @@ def Source_about_callback(update: Update, context: CallbackContext):
  ᴛʜɪs ɪs {BOT_NAME},
    ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴩ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ.*
 
-ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ :  [ᴛᴇʟᴇᴛʜᴏɴ](https://www.google.com)
-[ᴩʏʀᴏɢʀᴀᴍ](https://www.google.com)
-[ᴩʏᴛʜᴏɴ-ᴛᴇʟᴇɢʀᴀᴍ-ʙᴏᴛ](https://www.google.com)
-ᴀɴᴅ ᴜsɪɴɢ sǫʟᴀʟᴄʜᴇᴍʏ ᴀɴᴅ [ᴍᴏɴɢᴏ](https://www.google.com) ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
+ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ :  
+ᴛᴇʟᴇᴛʜᴏN
+ᴩʏʀᴏɢʀᴀᴍ]
+ᴩʏᴛʜᴏɴ-ᴛᴇʟᴇɢʀᴀᴍ-ʙᴏᴛ
+ᴀɴᴅ ᴜsɪɴɢ sǫʟᴀʟᴄʜᴇᴍʏ ᴀɴᴅ ᴍᴏɴɢᴏ ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
 
 
 * I DONT WANT TO SHOW SOURCE CODE *
