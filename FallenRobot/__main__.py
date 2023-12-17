@@ -437,7 +437,7 @@ def Source_about_callback(update: Update, context: CallbackContext):
 ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ :  ᴛᴇʟᴇᴛʜᴏɴ
 ᴩʏʀᴏɢʀᴀᴍ
 ᴩʏᴛʜᴏɴ-ᴛᴇʟᴇɢʀᴀᴍ-ʙᴏᴛ
-ᴀɴᴅ ᴜsɪɴɢ sǫʟᴀʟᴄʜᴇᴍʏ ᴀɴᴅ [ᴍᴏɴɢᴏ] ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
+ᴀɴᴅ ᴜsɪɴɢ sǫʟᴀʟᴄʜᴇᴍʏ ᴀɴᴅ ᴍᴏɴɢᴏ ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
 
 
 * I DONT WANT TO SHOW SOURCE CODE *
